@@ -33,7 +33,7 @@ body:
       label: コンプライアンス
       description: この決定が順守されていることを確認方法について書いてください。
     validations:
-      required: false
+      required: true
   - type: textarea
     attributes:
       label: 備考
